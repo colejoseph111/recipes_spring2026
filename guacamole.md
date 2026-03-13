@@ -1,6 +1,6 @@
 # Gaucamole
 ## Ingredients
 * avacodo
-* lemon
+* lime
 * salt
 ## Instructions
